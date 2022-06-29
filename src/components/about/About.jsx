@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Me from "../../images/me-2.png";
+import Me from "../../images/me-3.png";
 import { FaAward, FaCertificate, FaFolder} from "react-icons/fa";
 
 const About = () => {
@@ -30,7 +30,7 @@ const About = () => {
             <article className="about_card">
               <FaFolder className="about_icon" />
               <h5>Projects</h5>
-              <small>40+ projects completed</small>
+              <small>35+ projects completed</small>
             </article>
           </div>
           <p>I’m a certified full-stack developer, who enjoys building interactive  interfaces with JavaScript, React and Ruby On Rails.
