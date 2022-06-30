@@ -1,11 +1,11 @@
 import React from "react";
 import "./project.css";
-import IMG1 from '../../images/AirRovers.png';
-import IMG2 from '../../images/Budget.png';
-import IMG3 from '../../images/Covid.png';
-import IMG4 from '../../images/Space.png';
+import IMG1 from '../../images/AirRovers.PNG';
+import IMG2 from '../../images/Budget.PNG';
+import IMG3 from '../../images/Covid.PNG';
+import IMG4 from '../../images/Space.PNG';
 import IMG5 from '../../images/Maths.PNG';
-import IMG6 from '../../images/Summer.png';
+import IMG6 from '../../images/Summer.PNG';
 
 
 const projects = [{
