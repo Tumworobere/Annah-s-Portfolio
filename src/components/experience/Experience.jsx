@@ -8,6 +8,7 @@ import bs from '../../images/bootstrap.png'
 import three from '../../images/threejs.png'
 import node from '../../images/node.jpg'
 import postgr from '../../images/postgresql.png'
+import python from '../../images/python.png'
 import rails from '../../images/rails.png'
 import ruby from '../../images/ruby.png'
 
@@ -91,6 +92,13 @@ const Experience = () => {
              
                 <h4>Ruby on Rails</h4>
                 <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <img src={python} className="experience_details-icon" alt="python"/>
+              <div>
+                <h4>Python</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experience_details">
