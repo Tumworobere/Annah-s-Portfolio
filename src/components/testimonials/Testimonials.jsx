@@ -1,11 +1,10 @@
 import React from "react";
-import "./testimonials.css";
+import "./Testimonials.css";
 import AVTR1 from "../../images/Ranjeet.jpg";
 import AVTR2 from "../../Images/sheed.jpg";
 import { Navigation } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/navigation";
 
 const peers = [
   {
