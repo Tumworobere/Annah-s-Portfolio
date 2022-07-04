@@ -25,7 +25,7 @@ const About = () => {
             <article className="about_card">
               <FaCertificate className="about_icon" />
               <h5>Certificates</h5>
-              <small>6+</small>
+              <small>10+</small>
             </article>
             <article className="about_card">
               <FaFolder className="about_icon" />
@@ -33,15 +33,15 @@ const About = () => {
               <small>35+ projects completed</small>
             </article>
           </div>
-          <p>I’m a certified full-stack developer, who enjoys building interactive  interfaces with JavaScript, React and Ruby On Rails.
+          <p>I am an enthusiastic Full-Stack Web Developer with a passion for creating and fixing applications in in React & Redux, Ruby on Rails,
+        JavaScript, and HTML/CSS.
             <br />
             <br />
-            I'm also a Mentor at Microverse.
+            I am also a technical mentor at Microverse.
             <br />
             <br />
-            I'm open to Full-stack(remote/onsite) opportunities with a passion of Front-end development.
-            If you like what you see and have a project you need coded, 
-            don’t hestiate to contact me.
+            I have been working remotely with developers from across the globe,
+        I have excellent communication and collaboration skills and I have developed applications in teams and individually.
           </p>
           <a href="#project" className="btn btn-primary"> See my projects</a>
         </div>
