@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaLinkedin, FaGithub, FaTwitter, FaMediumM } from 'react-icons/fa'
+import { FaLinkedin, FaGithub, FaTwitter, FaMedium, FaAngellist, } from 'react-icons/fa'
 
 const HeaderSocials = () => {
   return (
