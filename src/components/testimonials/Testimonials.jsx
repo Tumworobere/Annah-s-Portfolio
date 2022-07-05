@@ -1,7 +1,7 @@
 import React from "react";
 import "./testimonials.css";
 import AVTR1 from "../../images/Ranjeet.jpg";
-import AVTR2 from "../../Images/sheed.jpg";
+import AVTR2 from "../../images/Shdeed.jpg";
 import { Navigation } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -25,7 +25,7 @@ const peers = [
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Review from Peers</h5>
+      <h5>Feedback from my Peers</h5>
       <h2>Testimonials</h2>
       <Swiper
         className="container testimonials_container"
