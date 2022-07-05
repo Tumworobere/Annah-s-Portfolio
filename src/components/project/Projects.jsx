@@ -2,7 +2,7 @@ import React from "react";
 import "./project.css";
 import IMG1 from '../../images/AirRovers.PNG';
 import IMG2 from '../../images/Budget.PNG';
-import IMG3 from '../../images/Covid.PNG';
+import IMG3 from '../../images/Covid1.PNG';
 import IMG4 from '../../images/Space.PNG';
 import IMG5 from '../../images/Maths.PNG';
 import IMG6 from '../../images/Summer.PNG';
@@ -11,6 +11,7 @@ import IMG6 from '../../images/Summer.PNG';
 const projects = [{
   id: 1,
   image: IMG1,
+
   title: 'AirRovers-full-stack project - Group project',
   github: 'https://github.com/Tumworobere/AirRovers-Frontend-App',
   demo:'https://air-rovers-frontend-app.vercel.app/'
@@ -18,6 +19,7 @@ const projects = [{
  {
   id: 2,
   image: IMG2,
+
   title: 'Budget-Tracker-Back-end Ruby on rails project',
   github: 'https://github.com/Tumworobere/Budget-Tracker.git',
   demo:'https://fast-scrubland-47961.herokuapp.com/'

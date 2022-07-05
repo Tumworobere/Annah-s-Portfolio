@@ -6,9 +6,9 @@ import { FaAward, FaCertificate, FaFolder} from "react-icons/fa";
 const About = () => {
   return (
     <section id="about">
-      <h5>Hello I'm</h5>
+      <h5>Hello, I'm</h5>
         <h2>Annah Tumworobere</h2>
-        {/* <h5 className="text-light"> Full-stack Developer</h5> */}
+        <h5 className="text-light"> Full-stack Developer</h5> 
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
