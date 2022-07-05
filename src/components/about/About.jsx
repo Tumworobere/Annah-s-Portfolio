@@ -33,7 +33,7 @@ const About = () => {
               <small>35+ projects completed</small>
             </article>
           </div>
-          <p>I am an enthusiastic Full-Stack Web Developer with a passion for creating and fixing applications in in React & Redux, Ruby on Rails,
+          <p>I am an enthusiastic Full-Stack Web Developer with a passion for creating and fixing applications in React & Redux, Ruby on Rails,
         JavaScript, and HTML/CSS.
             <br />
             <br />
