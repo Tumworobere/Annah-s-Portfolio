@@ -6,7 +6,7 @@ import {FaAngellist, FaTwitter, FaGithub, FaLinkedin, FaMedium} from 'react-icon
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer_logo'>Tannah</a>
+      <a href="#" className='footer_logo'>Tumworobere</a>
       <ul className='permalinks'>
         <li><a href='#'>Home</a></li>
         <li><a href='#about'>About</a></li>
@@ -24,7 +24,7 @@ const Footer = () => {
         <a href="https://medium.com/@annaht.annah"><FaMedium /></a>
       </div>
       <div className="footer_copyright">
-        <small>&copy; Tannah's Portfolio. All rights reserved.</small>
+        <small>&copy; Tumworobere's Portfolio. All rights reserved.</small>
       </div>
     </footer>
   )
