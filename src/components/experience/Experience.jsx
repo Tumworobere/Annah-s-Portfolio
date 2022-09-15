@@ -11,7 +11,6 @@ import postgr from '../../images/postgresql.png'
 import python from '../../images/python.png'
 import rails from '../../images/rails.png'
 import ruby from '../../images/ruby.png'
-
 const Experience = () => {
   return (
     <section id="experience">
