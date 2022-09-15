@@ -6,7 +6,7 @@ import { FaAward, FaCertificate, FaFolder} from "react-icons/fa";
 const About = () => {
   return (
     <section id="about">
-      <h5>Hello, I'm</h5>
+      <h5>Hello, I am</h5>
         <h2>Annah Tumworobere</h2>
         <h5 className="text-light"> Full-stack Developer</h5> 
       <div className="container about_container">
@@ -20,7 +20,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>1+ Years Working</small>
+              <small>Over 2 years working</small>
             </article>
             <article className="about_card">
               <FaCertificate className="about_icon" />
@@ -33,15 +33,16 @@ const About = () => {
               <small>35+ projects completed</small>
             </article>
           </div>
-          <p>I am an enthusiastic Full-Stack Web Developer with a passion for creating and fixing applications in React & Redux, Ruby on Rails,
-        JavaScript, and HTML/CSS.
+          <p>I am an enthusiastic,Certified Full-Stack Web Developer with a passion for creating and fixing applications in React & Redux, Ruby on Rails,
+             JavaScript, and HTML/CSS.
             <br />
             <br />
             I am also a technical mentor at Microverse.
             <br />
             <br />
-            I have been working remotely with developers from across the globe,
-        I have excellent communication and collaboration skills and I have developed applications in teams and individually.
+            I am open to Full-stack(remote/onsite) opportunities with a passion of Front-end development.
+            If you like what you see and have a project you need coded, 
+            do not hestiate to contact me
           </p>
           <a href="#project" className="btn btn-primary"> See my projects</a>
         </div>
