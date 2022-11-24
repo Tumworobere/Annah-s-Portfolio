@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-- [Vercel](https://react-portfolio-gdiyx9bqj-tumworobere.vercel.app/)
+- [Netlify](https://deploy-preview-12--playful-alpaca-530f5e.netlify.app/)
 
 # Getting Started
 ## Prerequisites:
