@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-- []()
+- [Vercel](https://deploy-preview-10--inquisitive-alfajores-62a1cd.netlify.app/)
 
 # Getting Started
 ## Prerequisites:
