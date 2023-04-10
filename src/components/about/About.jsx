@@ -20,7 +20,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>2+ years</small>
+              <small>3+ years</small>
             </article>
             <article className="about_card">
               <FaCertificate className="about_icon" />
@@ -30,7 +30,7 @@ const About = () => {
             <article className="about_card">
               <FaFolder className="about_icon" />
               <h5>Projects</h5>
-              <small>35+ projects completed</small>
+              <small>40+ projects completed</small>
             </article>
           </div>
           <p>I am an enthusiastic Full-Stack Web Developer with a passion for creating and fixing applications in React & Redux, Ruby on Rails,
