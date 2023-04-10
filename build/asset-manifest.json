@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25141c15.css",
+    "main.js": "/static/js/main.9b5446d5.js",
+    "static/media/Summer.PNG": "/static/media/Summer.c309214dc69139ba2fab.PNG",
+    "static/media/me-4.PNG": "/static/media/me-4.0376d3cb376528b221fb.PNG",
+    "static/media/AirRovers.PNG": "/static/media/AirRovers.57de22149fa0c94be8a5.PNG",
+    "static/media/Budget.PNG": "/static/media/Budget.65a389460d10ccd1b4de.PNG",
+    "static/media/Covid1.PNG": "/static/media/Covid1.690f10368758f4c0400d.PNG",
+    "static/media/Space.PNG": "/static/media/Space.d5b580e3735c24b84dbf.PNG",
+    "static/media/Shdeed.jpg": "/static/media/Shdeed.76d215af72977d1d340b.jpg",
+    "static/media/Ranjeet.jpg": "/static/media/Ranjeet.21e95c21d338de75f4d5.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.52343963a49979e260c4.pdf",
+    "static/media/Maths.PNG": "/static/media/Maths.1c45480b8fc78748dffb.PNG",
+    "static/media/node.jpg": "/static/media/node.17aff3218b3ce956a5b2.jpg",
+    "index.html": "/index.html",
+    "main.25141c15.css.map": "/static/css/main.25141c15.css.map",
+    "main.9b5446d5.js.map": "/static/js/main.9b5446d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25141c15.css",
+    "static/js/main.9b5446d5.js"
+  ]
+}
