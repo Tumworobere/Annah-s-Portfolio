@@ -24,7 +24,7 @@ const Footer = () => {
         <a href="https://medium.com/@annaht.annah"><FaMedium /></a>
       </div>
       <div className="footer_copyright">
-        <small>&copy; Tumworobere's Portfolio. All rights reserved.</small>
+        <small>&copy; Annah Tumworobere's Portfolio. All rights reserved.</small>
       </div>
     </footer>
   )
