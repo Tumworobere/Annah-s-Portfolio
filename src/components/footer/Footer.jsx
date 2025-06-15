@@ -3,7 +3,7 @@ import React from 'react'
 import './footer.css'
 import {FaAngellist, FaTwitter, FaGithub, FaLinkedin, FaMedium} from 'react-icons/fa'
 
-const Footer = () => {
+const Fonoter = () => {
   return (
     <footer>
       <a href="#" className='footer_logo'>Tumworobere</a>
@@ -24,7 +24,8 @@ const Footer = () => {
         <a href="https://medium.com/@annaht.annah"><FaMedium /></a>
       </div>
       <div className="footer_copyright">
-        <small>&copy; Annah Tumworobere's Portfolio. All rights reserved.</small>
+        <small>&copy; Annah Tumworobere's
+       Portfolio. All rights reserved.</small>
       </div>
     </footer>
   )
